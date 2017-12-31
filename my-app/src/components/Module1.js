@@ -6,7 +6,7 @@ class Module1 extends Component {
             <div className="container">
                 <div className="row">
                     <div className="col-md-6 col-xs-12">
-                        <img src="https://placehold.it/300x300" alt="image1" />
+                        <img src="https://placehold.it/300x300" alt="image1" className="moduleOneImage" />
                     </div>
                     <div className="col-md-6 col-xs-12">
                         <p className="text-center">

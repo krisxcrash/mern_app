@@ -4,10 +4,27 @@ class Navbar extends Component {
     render() {
         return (
             <div className="container">
-            <nav className="navbar navbar-dark navbar-fixed-top">
-                <a className="navbar-brand justify-content-left">Navbar</a>
-                        <button className="btn btn-outline-success btn-sm my-0 justify-content-right" type="button">Home</button>
-            </nav>
+            {/* <nav className="navbar navbar-dark navbar-fixed-top">
+                <a className="navbar-brand justify-content-left">ABSTRACTION</a>
+                    
+            </nav>   */}
+
+                <div className="pos-f-t">
+                <div className="collapse" id="navbarToggleExternalContent">
+                    <div className="bg-dark p-4">
+                    <h4 className="text-white">Collapsed content</h4>
+                    <span className="text-muted">Toggleable via the navbar brand.</span>
+                    </div>
+                </div>
+                <nav className="navbar navbar-dark bg-dark navbar-bg">
+                    <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span className="navbar-toggler-icon"></span>
+                    </button>
+                    <ul className="navbar-nav nav-ul">
+                        <li className="nav-item">HOME</li>
+                    </ul>
+                </nav>
+                </div>
             </div>
 
         )

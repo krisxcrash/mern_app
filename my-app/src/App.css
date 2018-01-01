@@ -2,6 +2,7 @@
   text-align: center;
 } */
 
+
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 80px;
@@ -24,6 +25,25 @@
 
 .moduleOneImage {
   border-radius: 50%;
+}
+
+.module-one-div {
+  padding: 5% 0;
+}
+.nav-ul {
+  color:white;
+}
+
+.navbar-bg {
+  background: black !important;
+}
+
+.jumbo-format {
+  padding: 15% 0 20% 0;
+  background: black;
+  color: white;
+  kerning: 1%;
+  border-radius: 0;
 }
 
 @keyframes App-logo-spin {

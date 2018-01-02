@@ -20,7 +20,9 @@ class Navbar extends Component {
                     <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
                     </button>
-                    <ul className="navbar-nav nav-ul">
+                    <ul className="nav navbar-nav nav-ul">
+                        <li className="nav-item">HOME</li>
+                        <li className="nav-item">HOME</li>
                         <li className="nav-item">HOME</li>
                     </ul>
                 </nav>

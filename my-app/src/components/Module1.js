@@ -7,16 +7,16 @@ class Module1 extends Component {
                 <div className="row module-one-div" id="module1">
                     <div className="col-md-6 col-xs-12">
                     <div className="row">
-                        <div className="col-md-8 col-xs-12">
-                            <h3 className="module-1-title">PROJECT</h3>
+                        <div className="text-section">
+                            <h4 className="module-1-title">PROJECT</h4>
                             <p className="module-1-p">
-                            Lorem ipsum dolor amet echo park retro, DIY gochujang banjo artisan roof party activated charcoal aesthetic. 
+                            Lorem ipsum dolor amet echo park retro. Hashtag unicorn vegan, vinyl brunch glossier man bun distillery hoodie enamel pin semiotics shaman shoreditch 90's hell of.
                             </p>
                             <p><a href="#" className="learn-more-link"><span className="learn-span">LEAR</span>N MORE</a></p>
                         </div>
                     </div>
                     <div className="row">
-                        <h4>01.</h4>
+                        <h5>01.</h5>
                     </div>
                     </div>
                     <div className="col-md-6 col-xs-12">

@@ -87,6 +87,21 @@
   border-bottom: 1px solid black;
 }
 
+.text-section {
+  padding: 63px 0 45px 125px;
+}
+
+.module-1-p {
+  font-size: .7em;
+  color: #7d7d7d;
+}
+
+.module-1-title {
+  font-size: 1.3em;
+  letter-spacing: 3px;
+  font-weight: bolder;
+}
+
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }

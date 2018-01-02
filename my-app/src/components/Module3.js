@@ -1,10 +1,10 @@
 import React, {Component} from 'react';
 
-class Module1 extends Component {
+class Module3 extends Component {
     render() {
         return (
             <div className="container">
-                <div className="row module-one-div" id="module1">
+                <div className="row module-one-div" id="module3">
                     <div className="col-md-6 col-xs-12">
                     <div className="row">
                         <div className="text-section-1">
@@ -16,7 +16,7 @@ class Module1 extends Component {
                         </div>
                     </div>
                     <div className="row">
-                        <h5>01.</h5>
+                        <h5>03.</h5>
                     </div>
                     </div>
                     <div className="col-md-6 col-xs-12">
@@ -29,4 +29,4 @@ class Module1 extends Component {
     }
 }
 
-export default Module1;
+export default Module3;

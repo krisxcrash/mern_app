@@ -87,19 +87,28 @@
   border-bottom: 1px solid black;
 }
 
-.text-section {
+.text-section-1 {
   padding: 63px 0 45px 125px;
 }
 
-.module-1-p {
+.text-section-2 {
+  padding: 63px 125px 45px 25px;
+  text-align: right;
+}
+
+.module-p{
   font-size: .7em;
   color: #7d7d7d;
 }
 
-.module-1-title {
+.module-title {
   font-size: 1.3em;
   letter-spacing: 3px;
   font-weight: bolder;
+}
+
+.row .module-2-h5 {
+  text-align: right !important;
 }
 
 @keyframes App-logo-spin {

@@ -7,6 +7,7 @@ import Module2 from './components/Module2.js';
 import Module3 from './components/Module3.js';
 import ModuleBlock from './components/ModuleBlock.js';
 import About from "./components/About.js";
+import Footer from "./components/Footer.js";
 
 class App extends Component {
   render() {
@@ -18,7 +19,8 @@ class App extends Component {
       <Module2 />
       <Module3 />
       <ModuleBlock />
-      <About />
+      <Footer />
+
       </div>
     );
   }

@@ -1,3 +1,7 @@
+.container-fluid {
+  padding: 0;
+}
+
 
 .moduleOneImage {
   border-radius: 50%;
@@ -115,6 +119,18 @@
   border: 2px solid #bea67c;
   height: 25px;
   width: 200px;
+}
+
+.footer-text {
+  font-size: .7em;
+  color: #7d7d7d;
+  text-align: center;
+  padding: 1%;
+  margin-top: 5%;
+}
+
+.footer-div {
+  background: black !important;
 }
 
 @keyframes App-logo-spin {

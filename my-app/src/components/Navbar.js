@@ -3,12 +3,7 @@ import React, {Component} from 'react';
 class Navbar extends Component {
     render() {
         return (
-            <div className="container">
-            {/* <nav className="navbar navbar-dark navbar-fixed-top">
-                <a className="navbar-brand justify-content-left">ABSTRACTION</a>
-                    
-            </nav>   */}
-
+            <div className="container-fluid">
                 <div className="pos-f-t">
                 <div className="collapse" id="navbarToggleExternalContent">
                     <div className="bg-dark p-4">

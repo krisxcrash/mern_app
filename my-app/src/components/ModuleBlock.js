@@ -3,7 +3,7 @@ import React, {Component} from 'react';
 class ModuleBlock extends Component {
     render() {
         return (
-            <div className="container div-block">
+            <div className="container-fluid div-block">
                 <div className="text-block col-md-8">
                     <h3 className="div-block-title">WE DO THE DESIGN <br/>OF ANY COMPLEXITY</h3>
                     <p className="div-block-p">

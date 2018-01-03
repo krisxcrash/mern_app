@@ -1,2 +1,2 @@
 # mern_app
-A MERN stack application
+A practice application using React.

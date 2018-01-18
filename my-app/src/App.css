@@ -2,14 +2,13 @@
   padding: 0;
 }
 
-
 .moduleOneImage {
   border-radius: 50%;
 }
 
 .module-one-div {
   padding: 5% 0;
-  width: 75%;
+  width: 75%; 
   margin: 0 auto;
 }
 .nav-ul {
